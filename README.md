@@ -16,7 +16,7 @@
 
 2. Chargement des données
 
-       dataset = pd.read_csv(r"C:\Users\kalla\Downloads\supply_chain_data.csv", sep=",")
+       dataset = pd.read_csv(r"C:\Users\xxxx\Downloads\supply_chain_data.csv", sep=",")
     Charge le fichier CSV contenant les données de la chaîne d'approvisionnement dans un DataFrame Pandas.
 
        print(dataset)
